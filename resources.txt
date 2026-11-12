@@ -1,4 +1,7 @@
-Football Betting - Football Results - Free Bets
+Football Betting - Football Results - Free Bets _>
 https://football-data.co.uk/thestatsapi.php
-
 ____________
+
+# a blog post website for developers
+https://jekyllrb.com/docs/
+___________#
